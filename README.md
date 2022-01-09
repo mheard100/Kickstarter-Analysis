@@ -32,6 +32,8 @@ Performing analysis on Kickstarter data to uncover trends
 	to see and assess a visual chart. A line chart was inserted showing "successful," "failed," and "canceled."
 	The x axis is the month and the y axis is the amount of Theater Outcomes. 
 	
+	![Outcomes_vs_Goals](https://github.com/mheard100/Kickstarter-Analysis/blob/main/Outcomes_vs_Goals.png)
+	
 
 ### Analysis of Outcomes Based on Goals
 
@@ -48,6 +50,8 @@ Performing analysis on Kickstarter data to uncover trends
 	##Visual 
 	
 	A line graph was inserted to show the % of successful, failed, and canceled for all goal money ranges. 
+	
+	![Theater_Outcomes_vs_Launch](https://github.com/mheard100/Kickstarter-Analysis/blob/main/Theater_Outcomes_vs_Launch.png)
 	
 ### Challenges and Difficulties Encountered
 
